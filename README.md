@@ -1,6 +1,8 @@
 # hexo-abbrlink3
 A [Hexo plugin](https://hexo.io/plugins/) to generate static post link based on different layouts titles.
 
+
+
 This is based on [hexo-abbrlink](https://github.com/rozbo/hexo-abbrlink) secondary development
 
 ## How to install
