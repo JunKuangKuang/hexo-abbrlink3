@@ -1,28 +1,24 @@
 {
-  "name": "hexo-abbrlink",
-  "version": "2.2.2",
-  "description": "create one and only link for every post for hexo",
+  "name": "hexo-abbrlink3",
+  "version": "1.0.1",
+  "description": "create one and only link for every different layouts for hexo",
   "main": "index.js",
   "scripts": {
-    "postinstall": "echo \"如果你需要有序的id增长，可以尝试本插件的升级版hexo-abbrlink2。\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rozbo/hexo-abbrlink.git"
+    "test": "node test.js"
   },
   "keywords": [
     "hexo",
     "link",
     "permalink",
-    "abbrlink"
+    "abbrlink3"
   ],
-  "author": "rozbo",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/Rozbo/hexo-abbrlink/issues"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Keen-King/hexo-abbrlink.git"
   },
-  "homepage": "https://github.com/Rozbo/hexo-abbrlink#readme",
+  "author": "君匡",
+  "license": "ISC",
+  "homepage": "https://github.com/Keen-King/hexo-abbrlink3/blob/master/README.md",
   "dependencies": {
     "hexo-front-matter": "^1.0.0",
     "hexo-fs": "^3.1.0"
